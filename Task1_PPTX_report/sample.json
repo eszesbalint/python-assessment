@@ -28,7 +28,7 @@
     {
       "type" : "plot",
       "title" : "The Title Text",
-      "content" : "sample.dat",
+      "content" : "sample.csv",
       "configuration" : {
         "x-label" : "The Plot X Label",
         "y-label" : "The Plot Y Label"

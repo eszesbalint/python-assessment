@@ -1,0 +1,5 @@
+docstring-parser
+numpy
+typeguard
+matplotlib
+python-pptx
